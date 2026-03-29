@@ -30,3 +30,28 @@ each vertex.**
 
 <img width="780" height="761" alt="image" src="https://github.com/user-attachments/assets/c2c39292-bd59-4c97-b175-8b6f58b5f04c" />
 <img width="503" height="478" alt="image" src="https://github.com/user-attachments/assets/3a1ae2db-a03d-46bd-8e7b-258e8df34ca4" />
+
+QUESTION 1:**Create a class SET. Create member functions to perform the following SET operations:  
+a. is member: check whether an element belongs to the set or not and return value as true/false. 
+b. powerset: list all the elements of the power set of a set.  
+c. subset: check whether one set is a subset of the other or not.  
+d. union and intersection of two Sets.  
+e. complement: assume universal set as per the input elements from the user.  
+f. set difference and symmetric difference between two sets.  
+g. cartesian product of sets.  
+Write a menu driven program to perform the above functions on an instance of the SET 
+class**
+
+<img width="808" height="774" alt="image" src="https://github.com/user-attachments/assets/809f52b4-7751-486a-90f3-4c882975631c" />
+<img width="795" height="730" alt="image" src="https://github.com/user-attachments/assets/c1d49621-2028-4244-aaa2-dd0ca7a9a0e9" />
+<img width="718" height="718" alt="image" src="https://github.com/user-attachments/assets/9907c13f-f965-4371-80d7-0c1365b3e840" />
+<img width="793" height="716" alt="image" src="https://github.com/user-attachments/assets/e1bad549-b7f9-4a50-957a-311ce6243054" />
+<img width="775" height="728" alt="image" src="https://github.com/user-attachments/assets/aa053af2-e4a5-44fb-8dc0-8f14845c7bcf" />
+OUTPUT
+<img width="846" height="801" alt="image" src="https://github.com/user-attachments/assets/647ec24f-3181-47bb-be1e-0ec1ac188d45" />
+
+QUESTION 2 :: **Create a class RELATION, use Matrix notation to represent a relation. Include member functions to check if the relation is Reflexive, Symmetric, Anti-symmetric, Transitive. Using these functions check whether the given relation is: Equivalence or Partial Order relation or None**
+<img width="957" height="862" alt="image" src="https://github.com/user-attachments/assets/c57ffb1c-11af-4781-8848-48a6d184efeb" />
+<img width="1057" height="883" alt="image" src="https://github.com/user-attachments/assets/48e34c96-fe69-47e1-b2c3-6c81c9d2f1b0" />
+
+

@@ -54,4 +54,7 @@ QUESTION 2 :: **Create a class RELATION, use Matrix notation to represent a rela
 <img width="957" height="862" alt="image" src="https://github.com/user-attachments/assets/c57ffb1c-11af-4781-8848-48a6d184efeb" />
 <img width="1057" height="883" alt="image" src="https://github.com/user-attachments/assets/48e34c96-fe69-47e1-b2c3-6c81c9d2f1b0" />
 
+output
+<img width="547" height="536" alt="image" src="https://github.com/user-attachments/assets/c42e0a5a-8f62-4137-a1df-26c6214300bd" />
+
 
